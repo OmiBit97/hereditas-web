@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando servidor local en http://localhost:3000...
+node local-server.js

@@ -1,9 +1,0 @@
-{
-  "name": "hereditas-web",
-  "version": "1.0.0",
-  "description": "Hereditas Cultural",
-  "private": true,
-  "scripts": {
-    "dev": "node server.js"
-  }
-}
