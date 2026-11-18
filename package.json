@@ -1,12 +1,9 @@
 {
   "name": "hereditas-web",
   "version": "1.0.0",
-  "description": "Clon de Hereditas Cultural",
-  "main": "server.js",
+  "description": "Hereditas Cultural",
+  "private": true,
   "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "dev": "node server.js"
+  }
 }
